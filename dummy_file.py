@@ -1,2 +1,2 @@
-rying to raise pull requests;
+trying to raise pull requests;
   
