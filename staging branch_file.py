@@ -1,2 +1,1 @@
-Dummy content
-.
+Dummy content .....
