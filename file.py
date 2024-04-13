@@ -1,2 +1,2 @@
 
-Check merge ...
+Check merge ..
